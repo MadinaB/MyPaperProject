@@ -1,3 +1,3 @@
 # MyPaperProject
-My first game on Unity written following Pixelnest Studio tutorials.
+This is my first Unity game inspired by Pixelnest Studio tutorials.
 
