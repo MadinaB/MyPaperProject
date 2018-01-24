@@ -1,2 +1,3 @@
 # MyPaperProject
-My little  “Shoot’Em Up” game on Unity
+My first game on Unity written following Pixelnest Studio tutorials.
+
