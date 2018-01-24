@@ -4,3 +4,6 @@ This is my first Unity game inspired by Pixelnest Studio tutorials.
 
 Parallax scrolling : illusion of infinite sky
 ![](HeFlies.gif)
+
+Health, bullets and enemies added
+![](BulletsHealthEnemies.gif)
